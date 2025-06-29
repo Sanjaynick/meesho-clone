@@ -1,6 +1,6 @@
 let container = document.querySelector('.products-list')   
 
-fetch('http://localhost:3000/products')
+fetch('https://raw.githubusercontent.com/Sanjaynick/meesho-clone/refs/heads/main/products.json')
 .then(res => res.json())
 .then((data) => {
     data.map((product) => {
@@ -61,5 +61,6 @@ fetch('http://localhost:3000/products')
            
            
             
+
            
             
