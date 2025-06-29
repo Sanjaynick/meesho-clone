@@ -1,0 +1,134 @@
+{
+    "products":[
+        {
+            "image":"./assets/products-images/product-1.webp",
+            "title":"STI Men's Shirt",
+            "price":"191",
+            "option":"Free Delivery",
+            "rating":{
+                "rate":"4.0",
+                "count":"72201"
+            }
+        },
+        {
+            "image":"./assets/products-images/kurtha.webp",
+            "title":"Women Kurtha",
+            "price":"552",
+             "option":"Free Delivery",
+            "rating":{
+                "rate":"4.0",
+                "count":"42258"
+            }
+        },
+        {
+            "image":"./assets/products-images/techno.webp",
+            "title":"Tecno Camon 20 Pro 5G",
+            "price":"257",
+             "option":"Free Delivery",
+            "rating":{
+                "rate":"4.0",
+                "count":"162"
+            }
+        },
+        {
+            "image":"./assets/products-images/saree.webp",
+            "title":"Women Saree",
+            "price":"313",
+             "option":"Free Delivery",
+            "rating":{
+                "rate":"4.8",
+                "count":"100"
+            }
+        },
+        {
+            "image":"./assets/products-images/mobile-cases.webp",
+            "title":"Mobile Case",
+            "price":"182",
+             "option":"Free Delivery",
+            "rating":{
+                "rate":"4.1",
+                "count":"1000"
+            }
+        },
+         {
+            "image":"./assets/products-images/kurtha-2.webp",
+            "title":"Attractive Kurtha",
+            "price":"200",
+             "option":"Free Delivery",
+            "rating":{
+                "rate":"4.0",
+                "count":"81569"
+            }
+        },
+         {
+            "image":"./assets/products-images/wired-headset.webp",
+            "title":"Wired Headphones",
+            "price":"128",
+             "option":"Free Delivery",
+            "rating":{
+                "rate":"3.9",
+                "count":"9055"
+            }
+        },
+         {
+            "image":"./assets/products-images/men-flip-flop.webp",
+            "title":"Men Flip Flop",
+            "price":"175",
+             "option":"Free Delivery",
+            "rating":{
+                "rate":"4.0",
+                "count":"4520"
+            }
+        },
+          {
+            "image":"./assets/products-images/men-shirt-2.webp",
+            "title":"Classic Men's Shirt",
+            "price":"211",
+             "option":"Free Delivery",
+            "rating":{
+                "rate":"4.1",
+                "count":"33526"
+            }
+        },
+          {
+            "image":"./assets/products-images/men-shoe.webp",
+            "title":"Unique Men Shoe",
+            "price":"550",
+             "option":"Free Delivery",
+            "rating":{
+                "rate":"4.0",
+                "count":"3911"
+            }
+        },
+          {
+            "image":"./assets/products-images/speaker.webp",
+            "title":"Bluetooth Speaker",
+            "price":"266",
+             "option":"Free Delivery",
+            "rating":{
+                "rate":"4.0",
+                "count":"2050"
+            }
+        },
+          {
+            "image":"./assets/products-images/shoe-accessories.webp",
+            "title":"Shoe Accessories",
+            "price":"301",
+             "option":"Free Delivery",
+            "rating":{
+                "rate":"4.3",
+                "count":"588"
+            }
+        },
+          {
+            "image":"./assets/products-images/jewellery.webp",
+            "title":"Fenimine Chunky Jewellery",
+            "price":"184",
+             "option":"Free Delivery",
+            "rating":{
+                "rate":"4.9",
+                "count":"27958"
+            }
+        }
+    ]
+}
