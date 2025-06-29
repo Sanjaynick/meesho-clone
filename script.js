@@ -3,7 +3,7 @@ let container = document.querySelector('.products-list')
 fetch('https://raw.githubusercontent.com/Sanjaynick/meesho-clone/refs/heads/main/products.json')
 .then(res => res.json())
 .then((data) => {
-    data.map((product) => {
+    data.products.map((product) => {
         let subContainer = document.createElement('div')
         subContainer.classList.add('sub-container')
 
