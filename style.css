@@ -233,6 +233,13 @@ header{
 .third-sub-con .img-1:hover{
     transform: translateY(-10px);
 }
+
+/* .third-bannar-img .third-bannar-sub-img a{
+    transition: transform 0.3s ease;
+}
+.third-bannar-img .third-bannar-sub-img a:hover{
+    transform: translateY(-10px);
+} */
 .section-5 .third-ban-con .img-1{
     background-color: white;
     border-radius: 10px;
@@ -272,41 +279,29 @@ header{
     top: 30px;
     left: 500px;
 }
-.third-bannar-sub-img .spa-1::before{
-    content: "✦";
-    z-index: 2;
+.third-bannar-img .third-bannar-sub-img .spa-1 span{
     color: white;
     font-size: 24px;
-    position: absolute;
-    /* top: 20px; */
     left: 145px;
+    position: absolute;
 }
-.third-bannar-sub-img .spa-2::before{
-    content: "✦";
-    z-index: 2;
+.third-bannar-img .third-bannar-sub-img .spa-2 span{
     color: white;
     font-size: 24px;
-    position: absolute;
-    /* top: 20px; */
     left: 360px;
+    position: absolute;
 }
-.third-bannar-sub-img .spa-3::before{
-    content: "✦";
-    z-index: 2;
+.third-bannar-img .third-bannar-sub-img .spa-3 span{
     color: white;
     font-size: 24px;
-    position: absolute;
-    /* top: 20px; */
     left: 580px;
+    position: absolute;
 }
-.third-bannar-sub-img .spa-4::before{
-    content: "✦";
-    z-index: 3;
+.third-bannar-img .third-bannar-sub-img .spa-4 span{
     color: white;
     font-size: 24px;
-    position: absolute;
-    /* top: 20px; */
     left: 800px;
+    position: absolute;
 }
 
 .shop-now-btn{

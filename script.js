@@ -3,7 +3,7 @@ let container = document.querySelector('.products-list')
 fetch('https://raw.githubusercontent.com/Sanjaynick/meesho-clone/refs/heads/main/products.json')
 .then(res => res.json())
 .then((data) => {
-    
+
     data.products.map((product) => {
         let subContainer = document.createElement('div')
         subContainer.classList.add('sub-container')
@@ -23,7 +23,7 @@ fetch('https://raw.githubusercontent.com/Sanjaynick/meesho-clone/refs/heads/main
 
         let productTitle = document.createElement('p')
         productTitle.classList.add('product-title')
-        productTitle.textContent = product.title
+        productTitle.textContent = `${product.title.slice(0,15)}......`
 
         let productPrice = document.createElement('p')
         productPrice.classList.add('product-price')
